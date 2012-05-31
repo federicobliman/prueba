@@ -15,3 +15,9 @@ este otro lo modifico en el branch
 nuevo linea desde branch2
 
 }
+
+void otroMetodo(){
+
+creado por Federico
+
+}
