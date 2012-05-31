@@ -1,5 +1,15 @@
+int metodo0(){
 
+//nuevo metodo 
 
+}
+
+int metodo0.1(){
+
+int uno = 1;
+return uno;
+
+}
 
 void metodo1(){
 
