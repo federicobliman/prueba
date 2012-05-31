@@ -12,5 +12,6 @@ este metodo lo voy a modificar en el master
 void metodo2(){
 
 este otro lo modifico en el branch
+nuevo linea desde branch2
 
 }
